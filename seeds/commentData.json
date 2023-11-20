@@ -1,0 +1,38 @@
+[
+  {
+    "comment_body": "Fascinating perspective, hadn't considered that!",
+    "date_created": "August 10, 2023",
+    "user_id": 2,
+    "blogPost_id": 1
+  },
+  {
+    "comment_body": "This really makes you think about the future.",
+    "date_created": "September 12, 2023",
+    "user_id": 3,
+    "blogPost_id": 1
+  },
+  {
+    "comment_body": "Great insights! Totally agree with this.",
+    "date_created": "April 5, 2023",
+    "user_id": 3,
+    "blogPost_id": 2
+  },
+  {
+    "comment_body": "Could you elaborate more on this point?",
+    "date_created": "July 21, 2023",
+    "user_id": 1,
+    "blogPost_id": 2
+  },
+  {
+    "comment_body": "Haha, that's a funny take!",
+    "date_created": "June 15, 2023",
+    "user_id": 2,
+    "blogPost_id": 3
+  },
+  {
+    "comment_body": "I'm skeptical about this, any further sources?",
+    "date_created": "May 22, 2023",
+    "user_id": 1,
+    "blogPost_id": 3
+  }
+]

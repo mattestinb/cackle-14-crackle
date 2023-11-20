@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Exploring Mars with AI Drones",
+    "description": "Innovative AI drones are being developed to explore the surface of Mars, providing new insights into the Martian landscape and potential for future colonization...",
+    "date_created": "November 10, 2023",
+    "user_id": 1
+  },
+  {
+    "title": "Revolutionizing Urban Transport with Electric Bikes",
+    "description": "Electric bikes are transforming urban transport, offering a greener, more efficient, and cost-effective way to navigate city streets...",
+    "date_created": "March 5, 2023",
+    "user_id": 2
+  },
+  {
+    "title": "Advancements in Deep Learning for Healthcare",
+    "description": "Deep learning technologies are making significant impacts in healthcare, from improving diagnostic accuracy to personalized treatment plans...",
+    "date_created": "July 21, 2023",
+    "user_id": 3
+  }
+]
